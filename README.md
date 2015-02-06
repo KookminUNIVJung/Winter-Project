@@ -4,4 +4,5 @@ Department of Computer Engineering, Kookmin University.
 
 Ji-man, Jeong
 
-Winter project.
+
+[ Winter project ]
